@@ -36,3 +36,26 @@
   background-color: floralwhite;
   margin: 0;
 }
+
+.button-container {
+  display: flex;
+  justify-content: center;
+  margin: 10% 0;
+}
+
+.button {
+  text-align: center;
+  color: floralwhite;
+  background-color: #1B5190;
+  width: 20%;
+  line-height: 250%;
+  text-decoration: none;
+}
+
+.footer {
+  height: 30%;
+  display: flex;
+  justify-content: center;
+  font-family: cursive;
+  padding-bottom: 30px;
+}

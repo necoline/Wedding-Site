@@ -7,9 +7,10 @@ class App extends Component {
     return (
       <div className="body">
         <header className="home-header">
-          <h1 className="text title ">Patrick + Necoline </h1>
+          <h1 className="text title blue">Patrick + Necoline </h1>
         </header>
         <div className="main-body">
+          {/* <div src="design/line.svg" /> */}
           <p className="title text blue body-title">RSVP</p>
           <Rsvp />
         </div>
