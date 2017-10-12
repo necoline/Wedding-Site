@@ -11,7 +11,7 @@ class App extends Component {
         </header>
         <div className="main-body">
           {/* <div src="design/line.svg" /> */}
-          <p className="title text blue body-title">RSVP</p>
+          <p className="title text blue body-title">Please RSVP by January 15, 2018</p>
           <Rsvp />
         </div>
       </div>

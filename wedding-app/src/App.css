@@ -21,7 +21,7 @@
 
 .body-title {
   margin: 0;
-  padding-top: 1%;
+  padding-top: 1.5%;
 }
 
 .home-header {
@@ -45,11 +45,13 @@
 
 .button {
   text-align: center;
+  font-size: 30px;
   color: floralwhite;
   background-color: #1B5190;
   width: 20%;
   line-height: 250%;
   text-decoration: none;
+  border-radius: 30px;
 }
 
 .footer {
