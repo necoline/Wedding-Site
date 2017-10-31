@@ -10,7 +10,7 @@ class App extends Component {
           <h1 className="text title blue">Patrick + Necoline </h1>
         </header>
         <div className="main-body">
-          {/* <div src="design/line.svg" /> */}
+          {/* <img src="../public/decLine.svg" /> */}
           <p className="title text blue body-title">Please RSVP by January 15, 2018</p>
           <Rsvp />
         </div>
